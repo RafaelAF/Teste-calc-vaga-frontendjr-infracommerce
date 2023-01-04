@@ -26,12 +26,25 @@
     height: 40px;
     width: 100%;
     background: hsl(268, 71%, 12%);
-    margin: 20px 0;
+    margin: 0 0 20px 0;
     color: hsl(52, 100%, 62%);
     display: flex;
     justify-content: flex-end;
     align-items: center;
     padding: 10px;
+    text-align: end;
+    outline: 0;
+    border: none;
+}
+.display2{
+    height: 10px;
+    width: 100%;
+    background: hsl(268, 71%, 12%);
+    color: hsl(52, 100%, 62%);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 20px;
 }
 .buttons{
     margin: 20px 0; 
